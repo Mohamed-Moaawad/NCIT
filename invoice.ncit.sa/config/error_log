@@ -1,0 +1,4 @@
+[20-Jun-2024 19:00:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ncit/public_html/invoice.ncit.sa/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ncit/public_html/invoice.ncit.sa/config/database.php on line 18
